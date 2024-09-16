@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Josh!
 This GitHub profile is designed to show you some of my projects, ideas, and assignments.
 
-Skills: JAVA / HTML / CSS
-
 - 🌱 I’m currently learning Godot, Game Design, and Java 
 
 
