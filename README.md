@@ -8,8 +8,8 @@ I am an incoming **Entry SDET and Software Engineer**. I recently graduated from
 
 ### 🚀 How's Work? How's School?
 * **Incoming Software Engineer at LexisNexis.**
-* Former LexisNexis Intern focused on test coverage and data reliability.
-* App State Alum with a background in systems-level problem solving.
+* Focusing on all three stages of testing as well as data reliability.
+* App State Alum with a background from bare metal programming to functional logic paradigms.
 
 ### 💻 What have I been up to?
 Too much at once, but I have been working heavily with **Java, Go, Gradle, and Spring Boot** lately.
@@ -24,4 +24,4 @@ Too much at once, but I have been working heavily with **Java, Go, Gradle, and S
 * Developing efficient, scalable data management services.
 
 
-feel free to connect with me anywhere you can find me, I'm always looking for new opportunities in all things CS!
+feel free to connect anywhere you can find me, I'm always looking for new opportunities in all things CS!
