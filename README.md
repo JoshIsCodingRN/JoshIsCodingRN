@@ -1,9 +1,27 @@
-### Hi there 👋, I'm Josh!
-This GitHub profile is designed to show you some of my projects, ideas, and assignments.
+## Hi there, I'm Josh! 👋
 
-- 🌱 I’m currently learning Godot, Game Design, and Java 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JoshIsCodingRN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshua-howard-a33620b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](howard.a.joshua@gmail.com)  
+I am an incoming **Entry SDET and Software Engineer**. I recently graduated from **Appalachian State University**.
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=JoshIsCodingRN&layout=default&theme=Cobalt2)](https://github.com/KasRoudra/github-stats-card)
+
+---
+
+### 🚀 How's Work? How's School?
+* **Incoming Software Engineer at LexisNexis.**
+* Former LexisNexis Intern focused on test coverage and data reliability.
+* App State Alum with a background in systems-level problem solving.
+
+### 💻 What have I been up to?
+Too much at once, but I have been working heavily with **Java, Go, Gradle, and Spring Boot** lately.
+
+* **Languages:** Java, Go, C/C++, Haskell, Python, SQL.
+* **Frameworks & Tools:** Spring Boot, Gradle, Git.
+* **Focus Areas:** Automated testing, debugging, and full stack development.
+
+### 🛠️ Current Interests
+* Home-labbing and local AI integrations
+* CI/CD pipelines and infrastructure as code.
+* Developing efficient, scalable data management services.
+
+
+feel free to connect with me anywhere you can find me, I'm always looking for new opportunities in all things CS!
