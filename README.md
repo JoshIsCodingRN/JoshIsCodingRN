@@ -1,6 +1,6 @@
 ## Hi there, I'm Josh! 👋
 
-I am an incoming **Entry SDET and Software Engineer**. I recently graduated from **Appalachian State University**.
+I am an incoming **Entry SDET and Software Engineer**. I recently graduated from **Appalachian State University** (_Go 'Neers!_).
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=JoshIsCodingRN&layout=default&theme=Cobalt2)](https://github.com/KasRoudra/github-stats-card)
 
